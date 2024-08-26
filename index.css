@@ -1,5 +1,8 @@
-p{
-    font-size: larger;
+
+.right-align{
+    text-align: right;
+    text-size:large;
+    
 }
 body{
     background-color: rgb(246, 203, 236);
