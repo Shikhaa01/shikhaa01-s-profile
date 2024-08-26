@@ -1,13 +1,11 @@
 .details{
     height: 100px; width: 80%;
-    float: right;
-}
-
-.details{
+    font-aling: right;
     font-weight:bolder ;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: larger;
 }
+
 body{
     background-color: rgb(246, 203, 236);
 }
