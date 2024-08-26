@@ -13,13 +13,6 @@ body{
     background-color: rgb(246, 203, 236);
 }
 
-.img_def{
-    float: right;
-}
-
-.img_gef{
-    float: left;
-}
 
 *{
     margin:0px;
