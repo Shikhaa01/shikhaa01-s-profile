@@ -114,9 +114,13 @@ header{
     clear: both;
 }
 
+#img_dyf{
+    float: center;
+}
 
-
-
+#img_drf{
+    float: center;
+}
 
 
 
